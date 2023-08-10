@@ -6,7 +6,6 @@ defult_difficulty = 'pro'
 last_difficulty = 'AI'
 generating = False
 game_mode = None
-press_sound = r'C:\Users\ohad\Desktop\לימודים\python\TicTacToe\press_sound.wav'
 
 
 def generate_row():
